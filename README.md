@@ -12,4 +12,4 @@ Tecnologias usadas:
 - Fetch API
 
 
-  PARA INCIAR O PROJETO: npm start (no terminal)
+  PARA INICIAR O PROJETO: npm start (no terminal)
